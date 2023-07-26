@@ -17,5 +17,6 @@
 
 
 ## Free try
-- Please see the CardGame.app file for testing.
+- Please download the CardGame.app zip file for testing:
+- https://firebasestorage.googleapis.com/v0/b/rnphonemarket.appspot.com/o/CardGame.zip?alt=media&token=21a81929-0d31-429a-804b-6ff8a70368ff
 
